@@ -1,0 +1,16 @@
+current directory: /work/web/mkwakkel.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20221209-369289-d9u6b9.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /work/web/mkwakkel.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /work/web/mkwakkel.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /work/web/mkwakkel.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20221209-369289-cgp7nd
